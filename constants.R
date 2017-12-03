@@ -1,0 +1,1 @@
+SUPER_CONSTANT = 42;
