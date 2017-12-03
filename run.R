@@ -1,7 +1,9 @@
-source('helpers.R')
-source('constants.R')
-source('problem-data.R')
+source('app/helpers.R')
+source('app/constants.R')
+source('app/problem-data.R')
+
+source('packages.R')
 
 run <- function() {
-  print(SUPER_CONSTANT)
+
 }
